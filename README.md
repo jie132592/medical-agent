@@ -15,3 +15,6 @@ Python、LangChain、LangGraph、Chroma、RAG、Gradio、LLM
 ```bash
 pip install -r requirements.txt
 python app.py
+
+演示图
+<img width="1491" height="471" alt="d53047ef5bb77f509c3ca171c5dc94ac" src="https://github.com/user-attachments/assets/d39241a9-dfe0-4d1b-a0a1-9cc47761a735" />
