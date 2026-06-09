@@ -1,0 +1,33 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 向量库 / 数据库
+vector_db/
+chroma_storage/
+*.db
+*.sqlite
+
+# 日志
+logs/
+*.log
+
+# 环境变量
+.env
+.env.local
+
+# 系统文件
+.DS_Store
