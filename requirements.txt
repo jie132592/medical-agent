@@ -1,8 +1,9 @@
-python-dotenv
-gradio
 langchain
+langchain-core
+langchain-community
 langgraph
-langchain-openai
-langchain-chroma
-chromadb
-pypdf
+gradio
+python-dotenv
+pydantic
+tenacity
+pyyaml
